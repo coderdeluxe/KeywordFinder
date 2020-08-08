@@ -1,10 +1,11 @@
-# KeywordFinder
+# Keyword Finder
 
-# DESCRIPTION: Get word occurences found in the text file and display it's total.
+DESCRIPTION: Get word occurences found in the text file and display it's total.
 
-# Can set folder path to App.config
+#### Reminder: Set folder path in App.config.
 
-# Can use static class KeywordFinderHelper.GetOccurences 
-# Parameter:
-#            - Folder Path
-#            - Word
+It uses static class KeywordFinderHelper.GetOccurences.
+
+Parameters:
+* Folder Path
+* Word
