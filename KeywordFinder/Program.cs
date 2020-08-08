@@ -17,7 +17,7 @@ namespace KeywordFinder
             Console.Write("Please enter word to search: ");
             var word = Console.ReadLine();
 
-            Console.WriteLine($"Total number of occurence(s) for {word} is {KeywordFinder.GetOccurences(path, word)}");
+            Console.WriteLine($"Total number of occurence(s) for {word} is {KeywordFinderHelper.GetOccurences(path, word)}");
   
             Console.ReadLine();
         }

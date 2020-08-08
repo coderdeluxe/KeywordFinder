@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace KeywordFinder
 {
-    public static class KeywordFinder
+    public static class KeywordFinderHelper
     {
         /// <summary>
         /// Return number of occurences base on the inputed word
