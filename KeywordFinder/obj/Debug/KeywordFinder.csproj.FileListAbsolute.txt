@@ -1,0 +1,7 @@
+C:\Users\Raymond\source\repos\KeywordFinder\KeywordFinder\bin\Debug\KeywordFinder.exe.config
+C:\Users\Raymond\source\repos\KeywordFinder\KeywordFinder\bin\Debug\KeywordFinder.exe
+C:\Users\Raymond\source\repos\KeywordFinder\KeywordFinder\bin\Debug\KeywordFinder.pdb
+C:\Users\Raymond\source\repos\KeywordFinder\KeywordFinder\obj\Debug\KeywordFinder.csprojAssemblyReference.cache
+C:\Users\Raymond\source\repos\KeywordFinder\KeywordFinder\obj\Debug\KeywordFinder.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\source\repos\KeywordFinder\KeywordFinder\obj\Debug\KeywordFinder.exe
+C:\Users\Raymond\source\repos\KeywordFinder\KeywordFinder\obj\Debug\KeywordFinder.pdb
